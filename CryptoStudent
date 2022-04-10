@@ -1,0 +1,20 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "pU4s_hVSbSi1"
+      },
+      "source": [
+        "In this project I will train an imgage classifier to recognize different species of flowers.\n",
+        "\n",
+        "I will be using the Oxford flowers dataset.\n",
+        "\n",
+        "Below are a few examples.\n",
+        "\n",
+        "\n",
+        "<img  src='assets/Flowers.png' width=500px>\n",
+        "\n",
+        "The project is broken down into 3 steps:\n",
+        "1. Load the image dataset and create a pipeline.\n",
+        "2. Build and train an image classifier on the dataset.\n",
